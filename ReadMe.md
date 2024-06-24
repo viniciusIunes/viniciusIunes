@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Front-End <br>Iniciando com React, JavaScript e TypeScript.
+Desenvolvedor de software. Atualmente ingressado em ADS <br> 
 
 
 ## 🌐 Socials:
